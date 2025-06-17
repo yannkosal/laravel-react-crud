@@ -17,7 +17,7 @@ This project is a CRUD (Create, Read, Update, Delete) application built using La
 1. Clone the repository:
     ```bash
     git clone https://github.com/your-username/laravel-react-crud.git
-    cd lara-react-crud
+    cd laravel-react-crud
     ```
 
 2. Install backend dependencies:
